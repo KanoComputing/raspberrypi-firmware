@@ -2,7 +2,3 @@
 boot/*.elf
 boot/*.bin
 boot/*.dat
-
-# FIXME: kernels should happen separately
-boot/kernel*.img
-modules /lib/
