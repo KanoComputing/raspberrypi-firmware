@@ -1,3 +1,9 @@
+raspberrypi-firmware (1.20140326-1) unstable; urgency=low
+
+  * firmware as of 9953ce0847
+
+ -- Radek Pazdera <radek@kano.me>  Wed, 05 Feb 2014 15:19:52 +0000
+
 raspberrypi-firmware (1.20140207-1) unstable; urgency=low
 
   * removed the kernel from raspberrypi-bootloader
