@@ -1,3 +1,9 @@
+raspberrypi-firmware (1.20150212-2) unstable; urgency=low
+
+  * Removing the armv6 kernel
+
+ -- Team Kano <dev@kano.me>  Fri, 13 Feb 2015 11:54:00 +0000
+
 raspberrypi-firmware (1.20150212-1) unstable; urgency=low
 
   * firmware as of 47bd0f0f46b
