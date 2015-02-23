@@ -1,4 +1,4 @@
-raspberrypi-firmware (1.20150212-2) unstable; urgency=low
+raspberrypi-firmware (2.20150212-2) unstable; urgency=low
 
   * Removing the armv6 kernel
 
