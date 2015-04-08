@@ -1,3 +1,9 @@
+raspberrypi-firmware (2.20150415-1) unstable; urgency=low
+
+  * Removing the kernels
+
+ -- Team Kano <dev@kano.me>  Wed, 15 Apr 2015 17:10:00 +0000
+
 raspberrypi-firmware (1.20150212-1) unstable; urgency=low
 
   * firmware as of 47bd0f0f46b
